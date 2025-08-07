@@ -1,0 +1,7 @@
+threat_reports = [
+    "A new variant of the Trojan horse malware has been detected, which exploits a vulnerability in web browsers.",
+    "A spear-phishing attack has been identified targeting corporate email accounts with a fake invoice attached.",
+    "Ransomware attacks are on the rise, with attackers demanding payment in Bitcoin from victims.",
+    "A vulnerability in the SSL/TLS protocol has been discovered, allowing man-in-the-middle attacks.",
+    "Phishing emails impersonating well-known banking institutions are being sent to customers, asking for login credentials."
+]
